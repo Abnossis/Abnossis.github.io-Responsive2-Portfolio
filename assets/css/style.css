@@ -243,6 +243,7 @@ input[type=submit] {
 /*  background: #4aaaa5;*/
   border: 0 none;
 }
+
 /* ----Media Screen ---980px---- */
 @media screen and (max-width: 980px)
 {
@@ -401,7 +402,7 @@ input[type=submit] {
     margin: 10px 0 10px;
     overflow: auto;
   }
-
+}
 /* ----Media Screen ---640px---- */
 @media screen and (max-width: 640px)
 {
